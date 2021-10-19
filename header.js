@@ -4,7 +4,7 @@ import { View, Text } from 'react-native'
 export default function header() {
     return (
         <View>
-            <Text>dgffd</Text>
+            <Text>dgffgfdgd</Text>
         </View>
     )
 }
